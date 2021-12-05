@@ -1,0 +1,12 @@
+.kukuli1{
+font-size:24;
+color:red;
+}
+.kukuli2{
+font-size:24;
+color:blue;
+}
+.kukuli{
+font-size:24;
+color:green;
+}
